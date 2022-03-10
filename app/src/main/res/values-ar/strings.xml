@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="tittle">اهلا وسهلا,تسجيل دخول</string>
+    <string name="name">اسم المستخدم</string>
+    <string name="pass">كلمة السر</string>
+    <string name="button">تسجيل دخول</string>
+</resources>
